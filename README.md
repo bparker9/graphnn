@@ -1,1 +1,3 @@
-# graphnn
+## Learning Powerful Representations of Molecular Graphs with Graph Isomorphism Network
+
+Repository for the paper/code for my Math 595 project for my Master's.<br><br> In this project, I explore the theoretical foundatations of leveraging deep learning frameworks to learn vector representations of graph-structured data. Moreover, I discuss the expressive power of Graph Isomorphism Network relative to other alogrithms and use GIN to learn representations for a graph classification task using the MCF-7 dataset.<br><br> All implementations use PyTorch and PyTorch geometric. funcs.py contains the functions used for the training and testing and models.py contains the neural network models as pytorch classes. 
